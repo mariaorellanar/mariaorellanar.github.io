@@ -1,7 +1,7 @@
 ---
 title: "The Genetic Links Between Archaic and Modern Humans"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /_publications/2021-04-18-The-Genetics-Links-Between-Archaic-and-Modern-Humans.md
 excerpt: 'A review on the genetic findings that link different species of Hominins in different areas of the planet.'
 date: 2021-04-18
 venue: 'Thinking Matters Symposium 2021'
