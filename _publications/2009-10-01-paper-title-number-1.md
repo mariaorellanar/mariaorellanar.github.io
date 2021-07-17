@@ -10,4 +10,4 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 Understanding the role of the klf9 gene in tail fin regeneration in Zebra fish. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Glucocorticoid%20singnaling%20and%20immune%20cell%20function.pdf)
