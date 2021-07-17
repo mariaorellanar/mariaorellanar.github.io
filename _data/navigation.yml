@@ -1,6 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+
+- title: "About me"
+    url: /Bio/
+
+- title: "Publications"
     url: /publications/
         
   - title: "Hobbies"
