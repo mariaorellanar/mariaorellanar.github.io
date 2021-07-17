@@ -3,7 +3,7 @@ title: "Glucocorticoid Signaling and Immune Cell Function"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Understanding the role of the klf9 gene in tail fin regeneration in Zebra fish.'
-date: 2020-15-01
+date: 2020-01-15
 
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 
